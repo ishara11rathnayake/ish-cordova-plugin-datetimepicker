@@ -1,16 +1,16 @@
 [![npm version](https://badge.fury.io/js/skwas-cordova-plugin-datetimepicker.svg)](https://badge.fury.io/js/skwas-cordova-plugin-datetimepicker)
 
-# skwas-cordova-plugin-datetimepicker
+# ish-cordova-plugin-datetimepicker
 
 Cordova Plugin for showing a native date, time or datetime picker.
 
 ## Installation
 
-`cordova plugin add skwas-cordova-plugin-datetimepicker`
+`cordova plugin add ish-cordova-plugin-datetimepicker`
 
 or for latest
 
-`cordova plugin add https://github.com/skwasjer/skwas-cordova-plugin-datetimepicker.git`
+`cordova plugin add https://github.com/ishara11rathnayake/ish-cordova-plugin-datetimepicker.git`
 
 ## Supported platforms
 
